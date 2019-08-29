@@ -1,0 +1,9 @@
+{
+    "usingComponents": {
+        "my-One": "./../../components/myOne/myOne"
+    },
+    "defaultTitle": "index",
+    "pullRefresh": false,
+    "allowsBounceVertical": "YES",
+    "titleBarColor": "#ffffff"
+}
